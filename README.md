@@ -13,5 +13,7 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with ProfileSwitcher.  If not, see <http://www.gnu.org/licenses/>.
 
-This repository is a fork from https://github.com/seamusphelan/ProfileSwitcher. Use the original repository to fork the code. 
-This repo is indented for my personal use.
+- 
+
+<b>This repository is a fork from https://github.com/seamusphelan/ProfileSwitcher. Use the original repository to fork the code. 
+This repo is indented for my personal use.</b>
